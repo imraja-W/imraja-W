@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @imraja-W
--  I’m interested in python and javascript
+- 👋 Hi, I’m Raja
+-  I’m interested in python, AI and javascript.
 -  I’m currently learning python
--  I’m looking to collaborate on any beginners work
+-  I’m looking to collaborate on any beginner's projects.
 - 📫 How to reach me ...https://instagram.com/_raja_saravanan__?igshid=OGQ5ZDc2ODk2ZA==
 
 <!---
